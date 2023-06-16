@@ -1,1 +1,1 @@
-"# kindle-sale" 
+# kindle-sale
