@@ -7,4 +7,4 @@ services:
     container_name: kindle-sale-frontend
     tty: true
     volumes:
-      - ./kindle-sale-frontend:/usr/src/kindle-sale-frontend
+      - ./kindle-sale-frontend:/usr/src/app
